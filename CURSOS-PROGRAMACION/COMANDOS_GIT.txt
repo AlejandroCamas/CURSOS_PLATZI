@@ -41,5 +41,9 @@ git config --list: muestra la lista de configuración de git
 git config --list --show-origin: rutas de acceso a la configuración de git
 
 vim (nombre del archivo) este comando se usa para poder modificar un archivo desde  la consola
+para salir de la consola una vez hecho el vim y terminado de escribir lo que necesitamos el comando es ESC + shift + z + z
+
+Para poder ver todos los cambios de una manera mas especifica los cabios usamos el comando 
+"git log --stat" de esta manera podemos ver los cambios exactos realizados
 
 git log archivo.extensión: muestra la historia del archivo
