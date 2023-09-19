@@ -40,4 +40,6 @@ git config --list: muestra la lista de configuración de git
 
 git config --list --show-origin: rutas de acceso a la configuración de git
 
+vim (nombre del archivo) este comando se usa para poder modificar un archivo desde  la consola
+
 git log archivo.extensión: muestra la historia del archivo
