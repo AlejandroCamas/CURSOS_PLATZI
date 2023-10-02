@@ -39,4 +39,4 @@ arreglo_3d = [[[1, 2, 3, 4],
 
 # Acceder a un elemento específico
 elemento = arreglo_3d[1][2][3]  # Acceder al elemento en la segunda matriz, tercera fila y cuarta columna
-print("Elemento:", elemento)  # Imprimirá 24
+print("Numero obtenido:", elemento)  # Imprimirá 24
